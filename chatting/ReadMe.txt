@@ -1,4 +1,4 @@
-WhatsApp Clone Project app made by Yashaswi Saurabh
+Desktop Chat Project made by Yashaswi Saurabh
 
 Chat Application Server:
 The provided code defines a Java-based Graphic User Interface application for a chat server using the Swing library. Here's a detailed summary of the key components and functionality:
@@ -94,6 +94,7 @@ Connects to the chat server, sets up input and output data streams, and listens 
 How to run the program:
 Run the Server: Ensure the chat server is running and listening on the specified port.
 Launch the Client: Execute the client application, enter a username, and start chatting.
+
 
 
 
